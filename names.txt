@@ -1,0 +1,4 @@
+hello java
+java is easy
+java is fun
+java is very tough
